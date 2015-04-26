@@ -1,0 +1,27 @@
+{
+  "name": "useful-web/yii-bootstrap-multiselect",
+  "description": "bootstrap-multiselect extension",
+  "homepage": "https://github.com/UsefulWeb/yii-bootstrap-multiselect",
+  "keywords": ["widget", "bootstrap", "ui","yii","bootstrap-multiselect","select"],
+  "type": "yii-extension",
+  "extra": {
+    "installer-name": "bootstrap-multiselect"
+  },
+  "require": {
+    "php": ">=5.3.2",
+    "yiisoft/yii": "1.1.*",
+    "bower-asset/bootstrap-multiselect": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "UsefulWeb\\TbMultiSelect": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+     "name": "Vladimir Yazykov",
+      "email": "neizerth@gmail.com"
+    }
+  ]
+}
