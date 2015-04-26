@@ -20,8 +20,9 @@
   "license": "MIT",
   "authors": [
     {
-     "name": "Vladimir Yazykov",
+      "name": "Vladimir Yazykov",
       "email": "neizerth@gmail.com"
     }
-  ]
+  ],
+  "minimum-stability": "stable"
 }
